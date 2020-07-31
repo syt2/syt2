@@ -1,5 +1,5 @@
 <div align="center">
-  <p>Welcome to my profile, I am a graduate student at East China Normal University.</p>
+  <p>Welcome to my profile, I am a postgraduate student at East China Normal University.</p>
   <p>I developed several Android applications in 2015-2016 independently and studyed CNNs during postgraduate.</p>
 </div>
 
