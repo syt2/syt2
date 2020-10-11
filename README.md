@@ -16,6 +16,7 @@
   <summary>deep learning (waiting...)</summary>
   
 [![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=dreamcontinue&repo=CNN)](https://github.com/dreamcontinue/CNN)
+[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=dreamcontinue&repo=CRA)](https://github.com/dreamcontinue/CRA)
 </details>
 
 [![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=dreamcontinue&show_icons=true&theme=dracula&hide=prs&count_private=true)](https://github.com/dreamcontinue)
