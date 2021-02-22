@@ -8,16 +8,16 @@
 <details>
   <summary>Android projects I developed</summary>
   
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=dreamcontinue&repo=Lavender)](https://github.com/dreamcontinue/Lavender)
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=dreamcontinue&repo=500pxdownloader)](https://github.com/dreamcontinue/500pxdownloader)
+[![ReadMe Card](https://github-readme-stats.syt2.vercel.app/api/pin/?username=syt2&repo=Lavender)](https://github.com/syt2/Lavender)
+[![ReadMe Card](https://github-readme-stats.syt2.vercel.app/api/pin/?username=syt2&repo=500pxdownloader)](https://github.com/syt2/500pxdownloader)
 </details>
 
 <details>
   <summary>deep learning (waiting...)</summary>
   
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=dreamcontinue&repo=CNN)](https://github.com/dreamcontinue/CNN)
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=dreamcontinue&repo=CRA)](https://github.com/dreamcontinue/CRA)
+[![ReadMe Card](https://github-readme-stats.syt2.vercel.app/api/pin/?username=syt2&repo=CNN)](https://github.com/syt2/CNN)
+[![ReadMe Card](https://github-readme-stats.syt2.vercel.app/api/pin/?username=syt2&repo=CRA)](https://github.com/syt2/CRA)
 </details>
 
-[![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=dreamcontinue&show_icons=true&theme=dracula&hide=prs&count_private=true)](https://github.com/dreamcontinue)
+[![github stats](https://github-readme-stats.syt2.vercel.app/api?username=syt2&show_icons=true&theme=dracula&hide=prs&count_private=true)](https://github.com/syt2)
 
