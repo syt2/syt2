@@ -18,6 +18,7 @@
 [![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=CNN)](https://github.com/syt2/CNN)
 [![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=CRA)](https://github.com/syt2/CRA)
 [![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=KAConv)](https://github.com/syt2/KAConv)
+[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=SKNet)](https://github.com/syt2/SKNet)
 
   
 </details>
