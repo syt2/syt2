@@ -1,7 +1,14 @@
+
+<div align="center">
+  <p>Welcome to my profile,.</p>
+</div>
+
+<!--
 <div align="center">
   <p>Welcome to my profile, I am a postgraduate student at East China Normal University.</p>
   <p>I developed several Android applications in 2015-2016 independently and studyed CNNs during postgraduate.</p>
 </div>
+
 
 ****
 
@@ -24,4 +31,4 @@
 </details>
 
 [![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&hide=prs&count_private=true)](https://github.com/syt2)
-
+-->
