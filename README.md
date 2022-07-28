@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p>Welcome to my profile,.</p>
+  <p>Welcome to my profile.</p>
 </div>
 
 <!--
