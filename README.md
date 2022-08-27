@@ -1,34 +1,41 @@
 
 <div align="center">
-  <p>Welcome to my profile.</p>
-</div>
-
-<!--
-<div align="center">
-  <p>Welcome to my profile, I am a postgraduate student at East China Normal University.</p>
-  <p>I developed several Android applications in 2015-2016 independently and studyed CNNs during postgraduate.</p>
+  <p>Welcome to my profile, I am an iOS developer now.</p>
+  <p>I was graduated from East China Normal University with a master's degree in 2021. My research filed is computer vision and convolutional neural networks during this period.</p>
+  <p>I developed several Android applications in 2015-2016 independently.</p>
 </div>
 
 
 ****
 
 <details>
-  <summary>Android projects I developed</summary>
-  
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=Lavender)](https://github.com/syt2/Lavender)
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=500pxdownloader)](https://github.com/syt2/500pxdownloader)
+  <summary>Deep learning projects</summary>
+    <a href="https://github.com/syt2/CNN">
+      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CNN" />
+    </a>
+    <a href="https://github.com/syt2/SKNet">
+      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=SKNet" />
+    </a>
+    <a href="https://github.com/syt2/CRA">
+      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CRA" />
+    </a>
+    <a href="https://github.com/syt2/KAConv">
+      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=KAConv" />
+    </a>
 </details>
 
 <details>
-  <summary>deep learning (waiting...)</summary>
-  
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=CNN)](https://github.com/syt2/CNN)
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=SKNet)](https://github.com/syt2/SKNet)
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=CRA)](https://github.com/syt2/CRA)
-[![ReadMe Card](https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&repo=KAConv)](https://github.com/syt2/KAConv)
-
-  
+  <summary>Android projects</summary>
+    <a href="https://github.com/syt2/Lavender">
+      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=Lavender" />
+    </a>
+    <a href="https://github.com/syt2/500pxdownloader">
+      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=500pxdownloader" />
+    </a>
 </details>
 
-[![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&hide=prs&count_private=true)](https://github.com/syt2)
+[![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/syt2)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syt2)](https://github.com/anuraghazra/github-readme-stats)
 -->
