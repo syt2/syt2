@@ -1,12 +1,13 @@
 
 <div align="center">
-  <p>Welcome to my profile, I am an iOS developer now.</p>
-  <p>I was graduated from East China Normal University with a master's degree in 2021. My research filed is computer vision and convolutional neural networks during this period.</p>
-  <p>I developed several Android applications in 2015-2016 independently.</p>
+  <p>Welcome to my profile.</p>
 </div>
 
 
 ****
+
+[![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/syt2)
+
 
 <details>
   <summary>Deep learning projects</summary>
@@ -33,8 +34,12 @@
       <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=500pxdownloader" />
     </a>
 </details>
-
-[![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/syt2)
+<details>
+  <summary>iOS APPs</summary>
+    <a href="https://apps.apple.com/app/id1658454999">
+      <img align="center" src="https://www.tracepad.site/icon.png" width=120/>
+    </a>
+</details>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syt2)](https://github.com/anuraghazra/github-readme-stats)
