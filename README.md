@@ -39,6 +39,9 @@
     <a href="https://apps.apple.com/app/id1658454999">
       <img align="center" src="https://www.tracepad.site/icon.png" width=120/>
     </a>
+    <a href="https://apps.apple.com/app/id6446406315">
+      <img align="center" src="https://github.com/syt2/Sudoku-Plus/raw/gh-pages/icon.png" width=120/>
+    </a>
 </details>
 
 <!--
