@@ -6,32 +6,32 @@
 
 ****
 
-[![github stats](https://github-readme-stats.dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/syt2)
+[![github stats](https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/syt2)
 
 
 <details>
   <summary>Deep learning projects</summary>
     <a href="https://github.com/syt2/CNN">
-      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CNN" />
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CNN" />
     </a>
     <a href="https://github.com/syt2/SKNet">
-      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=SKNet" />
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=SKNet" />
     </a>
     <a href="https://github.com/syt2/CRA">
-      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CRA" />
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CRA" />
     </a>
     <a href="https://github.com/syt2/KAConv">
-      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=KAConv" />
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=KAConv" />
     </a>
 </details>
 
 <details>
   <summary>Android projects</summary>
     <a href="https://github.com/syt2/Lavender">
-      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=Lavender" />
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=Lavender" />
     </a>
     <a href="https://github.com/syt2/500pxdownloader">
-      <img align="center" src="https://github-readme-stats.dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=500pxdownloader" />
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=500pxdownloader" />
     </a>
 </details>
 <details>
@@ -45,5 +45,5 @@
 </details>
 
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syt2)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/top-langs/?username=syt2)](https://github.com/anuraghazra/github-readme-stats)
 -->
