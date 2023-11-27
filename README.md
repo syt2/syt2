@@ -10,6 +10,19 @@
 
 
 <details>
+  <summary>Zotero Plugins</summary>
+    <a href="https://github.com/syt2/zotero-addons">
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-addons" />
+    </a>
+    <a href="https://github.com/syt2/zotero-scipdf">
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-scipdf" />
+    </a>
+    <a href="https://github.com/syt2/zotero-tldr">
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-tldr" />
+    </a>
+</details>
+
+<details>
   <summary>Deep learning projects</summary>
     <a href="https://github.com/syt2/CNN">
       <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=CNN" />
