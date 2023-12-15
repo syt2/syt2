@@ -14,6 +14,9 @@
     <a href="https://github.com/syt2/zotero-addons">
       <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-addons" />
     </a>
+    <a href="https://github.com/syt2/zotero-addons-scraper">
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-addons-scraper" />
+    </a>
     <a href="https://github.com/syt2/zotero-scipdf">
       <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-scipdf" />
     </a>
