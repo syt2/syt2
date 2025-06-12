@@ -52,7 +52,7 @@
 </details>
 <details>
   <summary>iOS APPs</summary>
-    <a href="https://apps.apple.com/app/id1658454999">
+    <a href="https://www.tracepad.site">
       <img align="center" src="https://www.tracepad.site/icon.png" width=120/>
     </a>
     <a href="https://apps.apple.com/app/id6446406315">
