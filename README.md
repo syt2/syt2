@@ -20,8 +20,8 @@
     <a href="https://github.com/syt2/zotero-scipdf">
       <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-scipdf" />
     </a>
-    <a href="https://github.com/syt2/zotero-tldr">
-      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-tldr" />
+    <a href="https://github.com/syt2/pdf-ai-talk">
+      <img align="center" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=pdf-ai-talk" />
     </a>
 </details>
 
@@ -54,9 +54,6 @@
   <summary>iOS APPs</summary>
     <a href="https://www.tracepad.site">
       <img align="center" src="https://www.tracepad.site/icon.png" width=120/>
-    </a>
-    <a href="https://apps.apple.com/app/id6446406315">
-      <img align="center" src="https://github.com/syt2/Sudoku-Plus/raw/gh-pages/icon.png" width=120/>
     </a>
 </details>
 
