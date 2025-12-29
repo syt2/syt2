@@ -33,7 +33,7 @@
   <a href="https://github.com/syt2/zotero-scipdf">
     <img src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=zotero-scipdf&hide_border=true" />
   </a>
-  <a href="https://github.com/syt2/pdf-ai-talk">
+  <a href="https://github.com/syt2/paper-chat-for-zotero">
     <img src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api/pin/?username=syt2&theme=dracula&repo=paper-chat-for-zotero&hide_border=true" />
   </a>
 </details>
