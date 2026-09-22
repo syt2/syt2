@@ -15,6 +15,12 @@
 <div align="center">
   <img height="160" src="https://github-readme-stats-39zwh8m6f-dreamcontinue.vercel.app/api?username=syt2&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide_border=true" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=syt2&theme=dracula&hide_border=true" />
+  <a href="https://ghfind.com/u/syt2?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/syt2?theme=dark" />
+      <img src="https://ghfind.com/api/card/mini/syt2?theme=light" alt="GitHub Roast 评分卡" width="440" />
+    </picture>
+  </a>
 </div>
 
 <br/>
